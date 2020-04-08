@@ -1,2 +1,5 @@
 nlp/so_questions.tsv
 nlp/new_data_flat.dmp
+courses/stepik_mipt_deep/so_embeddings.dmp
+courses/stepik_mipt_deep/so_questions.tsv
+courses/stepik_mipt_deep/new_data_flat.dmp
