@@ -24,4 +24,10 @@ Find any unusualness like breach in the industrial system, anomaly activity like
 
 ![LSTM](https://lingtra.in/images/other/anomaly_detection_rnn.png)
 
+## CV & Autoencoders
 
+```
+#conditional-autoencoders #variational-autoencoders #faces-generation
+```
+
+- Autoencoders learn how to restore the initial data from the compressed one.
