@@ -20,9 +20,11 @@ Find any unusualness like breach in the industrial system, anomaly activity like
 
 ![DT ensembling](https://lingtra.in/images/other/anomaly_detection_dt.png)
 
-- RNN
+- LSTM
 
 ![LSTM](https://lingtra.in/images/other/anomaly_detection_rnn.png)
+
+Working notebook for experiments: https://www.kaggle.com/averkij/anomaly-detection-methods
 
 ## 2. Autoencoders
 
@@ -50,3 +52,13 @@ https://www.kaggle.com/averkij/variational-autoencoder-and-faces-generation
 
 You can play with the CVAE example here:
 https://www.kaggle.com/averkij/conditional-variational-autoencoder-and-t-sne
+
+## 3. Natural Language Processing
+
+### Parts of speech tagging
+
+![pos](https://lingtra.in/images/other/pos_tagging.png)
+
+- Example of how to do a POS tagging using different models:
+  - Hidden Markov model
+  - Stanford model
