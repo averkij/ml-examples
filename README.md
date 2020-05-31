@@ -82,4 +82,6 @@ https://www.kaggle.com/averkij/opennmt-machine-translation-baseline
 #recsys #svd #als #item2item #user2item 
 ```
 
+![recsys](https://www.researchgate.net/profile/Rajani_Chulyadyo/publication/312092950/figure/fig3/AS:457045389385734@1485979520674/3-Recommendation-approaches-a-Collaborative-filtering-b-Demographicsbased.png)
+
 Simple example on recommender system using SVD dimensionality reduction.
