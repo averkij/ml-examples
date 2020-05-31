@@ -2,7 +2,7 @@
 
 Some of my notebooks made during ML discovering.
 
-## Anomaly and novelty detection (unsupervised)
+## 1. Anomaly and novelty detection (unsupervised)
 
 ```
 #statistics #shapiro #threat-detection #decision-trees #lstm
@@ -24,10 +24,29 @@ Find any unusualness like breach in the industrial system, anomaly activity like
 
 ![LSTM](https://lingtra.in/images/other/anomaly_detection_rnn.png)
 
-## CV & Autoencoders
+## 2. Autoencoders
 
 ```
 #conditional-autoencoders #variational-autoencoders #faces-generation
 ```
 
-- Autoencoders learn how to restore the initial data from the compressed one.
+Autoencoders learn to discover the structure in the data and produce a compressed representation. Then it can try to restore the initial data from the compressed data. The main applications of autoencoders are:
+
+- Image denoising
+- Dimensionality reduction
+- Image generation (for example adding a smile to the face, sunglasses, hat, etc.)
+
+### Faces generation (Variational autoencoders)
+
+![Faces generation](https://lingtra.in/images/other/faces_generation.png)
+
+You can play with the faces generation example here:
+https://www.kaggle.com/averkij/variational-autoencoder-and-faces-generation
+
+
+### Numbers generation (Conditional vaiational autoencodes)
+
+![cvae](https://lingtra.in/images/other/cvae-tsne.png)
+
+You can play with the CVAE example here:
+https://www.kaggle.com/averkij/conditional-variational-autoencoder-and-t-sne
