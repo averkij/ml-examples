@@ -55,10 +55,33 @@ https://www.kaggle.com/averkij/conditional-variational-autoencoder-and-t-sne
 
 ## 3. Natural Language Processing
 
+```
+#nlp #pos-tagging #topic-modeling #machine-translation #word2vec #bpe
+```
+
 ### Parts of speech tagging
 
-![pos](https://lingtra.in/images/other/pos_tagging.png)
+![pos](https://lingtra.in/images/other/pos_tagging2.png)
 
 - Example of how to do a POS tagging using different models:
   - Hidden Markov model
   - Stanford model
+
+### Machine translation
+
+![machine translation](https://lingtra.in/images/other/machine_translation.png)
+
+Open-NMT based translation system for Chienese to Russian translation task.
+
+You can see the details in this kernel: 
+https://www.kaggle.com/averkij/opennmt-machine-translation-baseline
+
+## 4. Recommender systems
+
+```
+#recsys #svd #als #item2item #user2item 
+```
+
+![recsys](https://www.researchgate.net/profile/Rajani_Chulyadyo/publication/312092950/figure/fig3/AS:457045389385734@1485979520674/3-Recommendation-approaches-a-Collaborative-filtering-b-Demographicsbased.png)
+
+Simple example on recommender system using SVD dimensionality reduction.
